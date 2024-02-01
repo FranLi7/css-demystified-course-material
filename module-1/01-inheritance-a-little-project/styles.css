@@ -4,6 +4,18 @@
     font-family: 'PT Serif', serif;
 */
 
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+.subtitle {
+  font-size: 2rem;
+}
+
 .container {
   width: 90%;
   max-width: 39rem;
